@@ -1,0 +1,19 @@
+{
+  "name": "DeficientPinkLink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.10.1",
+    "esbuild": "^0.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "static-here": "^1.0.0"
+  }
+}
